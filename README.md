@@ -1,8 +1,8 @@
 # Catch'em all
 
-Handle a call to a risky method in the main method in [CatchEmAll](src/main/java/com/rpam/rd/autotasks/CatchEmAll.java) that can throw different types of exceptions.
+1. Handle a call to a risky method in the main method in [CatchEmAll](src/main/java/com/rpam/rd/autotasks/CatchEmAll.java) that can throw different types of exceptions.
 
-Please, note that some types of exceptions should be handled, while others – shouldn’t.
+2. Please note that some types of exceptions should be handled, while other - wrapped and rethrown, while others - shouldn't.
 
 Details:
 
